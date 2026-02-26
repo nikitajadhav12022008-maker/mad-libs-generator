@@ -2,6 +2,7 @@
 
 A simple and fun beginner Python project that generates a short story
 based on user inputs.
+------
 
 ## 🚀 About The Project
 
@@ -25,10 +26,10 @@ Perfect for beginners who are starting their Python journey.
    - A name
    - A place
    - An animal
-2. It then generates a short story using those words.
+2. It then generates a short story using those word.
+. ------
 
-Example:
-
+##🧠Example:
 Enter a name: Nikita  
 Enter a place: Pune  
 Enter an animal: Panda
@@ -41,10 +42,11 @@ One day Nikita went to Pune and saw a funny Panda!
 ## ▶️ How to Run
 
 Make sure Python is installed on your system.
-
+Clone the repo
 ```bash
 python mad_libs_generator.py
 ```
+------
 
 ##👩‍💻Author:
 Nikita Jadhav
