@@ -2,6 +2,7 @@
 
 A simple and fun beginner Python project that generates a short story
 based on user inputs.
+
 ------
 
 ## 🚀 About The Project:
