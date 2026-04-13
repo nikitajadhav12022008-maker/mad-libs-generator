@@ -28,6 +28,7 @@ Perfect for beginners who are starting their Python journey.
    - A place
    - An animal
 2. It then generates a short story using those word.
+ 
 . ------
 
 ## 🧠Example:
